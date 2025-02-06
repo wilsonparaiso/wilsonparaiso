@@ -1,6 +1,6 @@
 # Wilson Paraiso
 
-Sou um DevOps Engineer apaixonado por arquitetura de soluções e cybersecurity. Tenho mais de quinze anos de experiência atuando com infraestrutura e DevOps. Atualmente, trabalho na Platform Builders, uma empresa que oferece soluções inovadoras e disruptivas para diversos setores. Além da minha formação em Segurança da Informação, também tenho uma pós-graduação em Arquitetura de Software, Ciência de Dados e Cybersecurity, e possuo certificações da AWS e da Oracle em Cloud Computing. O meu objetivo é contribuir para o desenvolvimento de produtos e serviços que gerem valor e impacto para os clientes, utilizando as melhores práticas e metodologias de DevOps. Também busco aprender constantemente, compartilhar conhecimento e colaborar com equipes multidisciplinares.
+Sou um DevOps Engineer apaixonado por arquitetura de soluções. Tenho mais de quinze anos de experiência atuando com infraestrutura e DevOps. Além da minha formação em Segurança da Informação, também tenho uma pós-graduação em Arquitetura de Software, Ciência de Dados e Cybersecurity, e possuo certificações da AWS e da Oracle em Cloud Computing. O meu objetivo é contribuir para o desenvolvimento de produtos e serviços que gerem valor e impacto para os clientes, utilizando as melhores práticas e metodologias de DevOps. Também busco aprender constantemente, compartilhar conhecimento e colaborar com equipes multidisciplinares.
 
 ### Conecte-se comigo
 
